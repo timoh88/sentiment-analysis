@@ -18,10 +18,6 @@
 - 可生成用户评论情感分布图
 - 结果具备一定应用参考价值
 
-## 📷 示例图
-![饼图](./pie_chart.png)  
-![直方图](./histogram.png)
-
 ## 👨‍💻 运行方法
 ```bash
 python emo.py
