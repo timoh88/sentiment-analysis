@@ -1,23 +1,23 @@
-# 基于Python的电商评论情感分析系统
+# Sentiment Analysis System for E-commerce Reviews Based on Python
 
-## 🧩 项目背景与目标
-本项目旨在实现电商网站商品评论的自动情绪识别，帮助理解用户满意度趋势。
+## 🧩 Project Background and Objectives
+This project aims to automatically identify the sentiment of product reviews from e-commerce websites, helping businesses and analysts understand customer satisfaction trends.
 
-## 🔧 使用技术
+## 🔧 Technologies Used
 - Python
 - SnowNLP
 - Pandas, Matplotlib, Requests
 
-## 🔄 项目流程
-1. 数据爬取（模拟访问网站评论接口）
-2. 中文情感识别（SnowNLP）
-3. 可视化展示（情绪分布图、饼图）
+## 🔄 Project Workflow
+1. Data Crawling (simulate access to product review APIs)
+2. Sentiment Analysis for Chinese Texts (using SnowNLP)
+3. Visualization (sentiment distribution bar chart & pie chart)
 
-## 🧪 项目亮点
-- 自建数据集 + 自定义分析流程
-- 可生成用户评论情感分布图
-- 结果具备一定应用参考价值
+## 🧪 Project Highlights
+- Custom-built dataset and analysis pipeline  
+- Generates sentiment distribution visuals for user reviews  
+- Results offer practical value for consumer feedback analysis
 
-## 👨‍💻 运行方法
+## 👨‍💻 How to Run
 ```bash
 python emo.py
